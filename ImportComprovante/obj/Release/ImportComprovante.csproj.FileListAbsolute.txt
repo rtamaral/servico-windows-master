@@ -1,0 +1,9 @@
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Release\ImportComprovante.exe.config
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Release\ImportComprovante.exe
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Release\ImportComprovante.pdb
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Release\Oracle.ManagedDataAccess.dll
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Release\ImportComprovante.csprojAssemblyReference.cache
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Release\ImportComprovante.csproj.CoreCompileInputs.cache
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Release\ImportComprovante.csproj.CopyComplete
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Release\ImportComprovante.exe
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Release\ImportComprovante.pdb

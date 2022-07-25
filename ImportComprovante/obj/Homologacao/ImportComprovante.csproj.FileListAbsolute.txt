@@ -1,0 +1,17 @@
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\ImportComprovante.exe.config
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\ImportComprovante.exe
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\ImportComprovante.pdb
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\Oracle.ManagedDataAccess.dll
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.csproj.CoreCompileInputs.cache
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.csproj.CopyComplete
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.exe
+D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.pdb
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\ImportComprovante.exe.config
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\ImportComprovante.exe
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\ImportComprovante.pdb
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Homologacao\Oracle.ManagedDataAccess.dll
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.csprojAssemblyReference.cache
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.csproj.CoreCompileInputs.cache
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.csproj.CopyComplete
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.exe
+D:\Repositório SVN\SDP\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\obj\Homologacao\ImportComprovante.pdb

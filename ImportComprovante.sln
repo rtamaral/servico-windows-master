@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportComprovante", "ImportComprovante\ImportComprovante.csproj", "{BFEF2C53-3ABE-4163-A754-37879B896FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Homologacao|Any CPU = Homologacao|Any CPU
+		Producao|Any CPU = Producao|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Homologacao|Any CPU.ActiveCfg = Homologacao|Any CPU
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Homologacao|Any CPU.Build.0 = Homologacao|Any CPU
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Producao|Any CPU.ActiveCfg = Producao|Any CPU
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Producao|Any CPU.Build.0 = Producao|Any CPU
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFEF2C53-3ABE-4163-A754-37879B896FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AFBE84-8557-4393-97F2-3A7FE1B13BCC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,692 @@
+﻿Instalando o assembly 'C:\Users\robson.amaral\Desktop\ImportComprovante\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\robson.amaral\Desktop\ImportComprovante\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = C:\Users\robson.amaral\Desktop\ImportComprovante\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Importação Comprovantes .CPV...
+Serviço Importação Comprovantes .CPV foi instalado com êxito.
+Criando a origem de EventLog Importação Comprovantes .CPV no log Application...
+Confirmando o assembly 'C:\Users\robson.amaral\Desktop\ImportComprovante\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\robson.amaral\Desktop\ImportComprovante\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = C:\Users\robson.amaral\Desktop\ImportComprovante\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Não é possível criar uma instância do tipo de instalador ImportComprovante.MyWindowsServiceInstaller.
+System.Reflection.TargetInvocationException: Uma exceção foi acionada pelo destino de uma chamada.
+Exceção interna System.ArgumentException foi acionada com a seguinte mensagem de erro: O nome do serviço Serviço de importação de comprovantes .CPV /retorno Banestes contém caracteres inválidos, está vazio ou é muito longo (comprimento máximo = 80)..
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Restaurando o log de eventos para o estado anterior da origem Serviço de importação de comprovantes .CPV retorno Banestes.
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Aviso: a origem Serviço de importação de comprovantes .CPV retorno Banestes não está registrada no computador local.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Restaurando o log de eventos para o estado anterior da origem Serviço de importação de comprovantes .CPV retorno Banestes.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Restaurando o log de eventos para o estado anterior da origem Serviço de importação de comprovantes .CPV retorno Banestes.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Restaurando o log de eventos para o estado anterior da origem Serviço de importação de comprovantes .CPV retorno Banestes.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Restaurando o log de eventos para o estado anterior da origem Serviço de importação de comprovantes .CPV retorno Banestes.
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Aviso: a origem Serviço de importação de comprovantes .CPV retorno Banestes não está registrada no computador local.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Restaurando o log de eventos para o estado anterior da origem Serviço de importação de comprovantes .CPV retorno Banestes.
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Aviso: a origem Serviço de importação de comprovantes .CPV retorno Banestes não está registrada no computador local.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Revertendo o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Restaurando o log de eventos para o estado anterior da origem Serviço de importação de comprovantes .CPV retorno Banestes.
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Aviso: a origem Serviço de importação de comprovantes .CPV retorno Banestes não está registrada no computador local.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Tentativa de parar o serviço Serviço de importação de comprovantes .CPV retorno Banestes.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Serviço de importação de comprovantes .CPV retorno Banestes...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Serviço de importação de comprovantes .CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Serviço de importação de comprovantes .CPV retorno Banestes.
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes está sendo removido do sistema...
+Serviço Serviço de importação de comprovantes .CPV retorno Banestes foi removido com êxito do sistema.
+Tentativa de parar o serviço Serviço de importação de comprovantes .CPV retorno Banestes.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Servico de importacao de comprovantes CPV retorno Banestes...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Servico de importacao de comprovantes CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Servico de importacao de comprovantes CPV retorno Banestes.
+Serviço Servico de importacao de comprovantes CPV retorno Banestes está sendo removido do sistema...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Servico de importacao de comprovantes CPV retorno Banestes...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Servico de importacao de comprovantes CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Servico de importacao de comprovantes CPV retorno Banestes.
+Serviço Servico de importacao de comprovantes CPV retorno Banestes está sendo removido do sistema...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi removido com êxito do sistema.
+Tentativa de parar o serviço Servico de importacao de comprovantes CPV retorno Banestes.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Servico de importacao de comprovantes CPV retorno Banestes...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Servico de importacao de comprovantes CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Servico de importacao de comprovantes CPV retorno Banestes.
+Serviço Servico de importacao de comprovantes CPV retorno Banestes está sendo removido do sistema...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi removido com êxito do sistema.
+Tentativa de parar o serviço Servico de importacao de comprovantes CPV retorno Banestes.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+Instalando o serviço Servico de importacao de comprovantes CPV retorno Banestes...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Servico de importacao de comprovantes CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Servico de importacao de comprovantes CPV retorno Banestes.
+Serviço Servico de importacao de comprovantes CPV retorno Banestes está sendo removido do sistema...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi removido com êxito do sistema.
+Instalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Instalando o serviço Servico de importacao de comprovantes CPV retorno Banestes...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi instalado com êxito.
+Criando a origem de EventLog Servico de importacao de comprovantes CPV retorno Banestes no log Application...
+Confirmando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Servico de importacao de comprovantes CPV retorno Banestes.
+Serviço Servico de importacao de comprovantes CPV retorno Banestes está sendo removido do sistema...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi removido com êxito do sistema.
+Tentativa de parar o serviço Servico de importacao de comprovantes CPV retorno Banestes.
+Desinstalando o assembly 'D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.InstallLog
+   assemblypath = D:\Repositório SVN\SDP_2\SDPJ\branches\SDPJ-ImportacaoComprovante-v1.0.0\ImportComprovante\ImportComprovante\bin\Debug\ImportComprovante.exe
+Removendo a origem do EventLog Servico de importacao de comprovantes CPV retorno Banestes.
+Serviço Servico de importacao de comprovantes CPV retorno Banestes está sendo removido do sistema...
+Serviço Servico de importacao de comprovantes CPV retorno Banestes foi removido com êxito do sistema.
